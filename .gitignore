@@ -1,0 +1,5 @@
+dump.sql
+wp-content/ai1wm-backups/*
+archive.tar.gz
+.DS_Store
+wp-content/debug.log
